@@ -1,3 +1,23 @@
+.multitable{
+
+    width: 500px;
+    height: 600px;
+    overflow-y: scroll;
+    border: 5px solid rgb(243, 177, 177);
+    border-radius: 15px;
+    background-color: rgb(255, 245, 210);
+    padding-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+   
+    
+}
 body{
-    background-image: url('https://images.unsplash.com/photo-1557360798-c91519105dd7?q=80&w=3133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url('https://media0.giphy.com/media/EC8ht2X81BmZ2AzKwC/giphy.gif?cid=ecf05e47q1jckdmz26cjgqzd34qup2fangzyasn2itycnfj7&ep=v1_gifs_related&rid=giphy.gif&ct=g');
+    background-size: cover;
+}
+.head1{
+    color: antiquewhite;
 }
